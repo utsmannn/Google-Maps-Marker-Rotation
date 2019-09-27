@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhammad Utsman on 9/28/19 6:25 AM
+  ~ Copyright (c) 2019 . All rights reserved.
+  ~ Last modified 9/28/19 2:12 AM
+  -->
+
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.utsman.googlemapskece">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
     <application
         android:allowBackup="true"

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Muhammad Utsman on 9/28/19 6:25 AM
+  ~ Copyright (c) 2019 . All rights reserved.
+  ~ Last modified 9/16/19 12:25 AM
+  -->
+
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
