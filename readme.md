@@ -1,7 +1,7 @@
 # Google Map Sample With Marker Rotation
 
 ![](https://i.ibb.co/7zt8tFJ/20190928-055853.gif) <br>
-[See video](https://raw.githubusercontent.com/utsmannn/Google-Maps-Sample/master/video.mp4)
+[See video](https://youtu.be/RsoStzn377w)
 
 ***Other dependencies***
 
